@@ -1,0 +1,31 @@
+.sezione1{
+    height: 100vh;
+    width: 100%;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.76), rgba(0, 0, 0, 0)) , url(./Blue/media/header.jpg);
+
+}
+    
+.wave-gray{
+
+    position: absolute;
+    bottom: 20px;
+
+}
+
+.wave-white{
+
+    position: absolute;
+    bottom: 0;
+}
+
+.btn-custom{
+    text-decoration: none;
+    color: black;
+    border: 5px solid rgb(255, 184, 5);
+    background-color: rgb(255, 183, 0);
+    border-radius: 2px;
+    padding: 10px 50px;
+    text-align: center;
+
+}
